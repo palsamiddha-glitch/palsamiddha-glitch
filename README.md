@@ -100,13 +100,19 @@ Also, pink keyboards make me type faster 💅
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=palsamiddha-glitch&bg_color=0f0410&color=ffb3c1&line=ff88bb&point=ffd6e6&area=true&hide_border=true" width="90%"/>
 </p>
 
-<!-- sparkle separator -->
+<!-- ✨ Sparkle divider -->
 <p align="center">
-  <img src="./sparkle-line.gif" width="900" alt="sparkle separator" />
+  <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
 </p>
+
 ### 🎧 Currently Vibing To
+
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&width=500&unique=true&background_color=0f0410&border_color=ff88bb" alt="Spotify recently played" />
+  <img src="./samiddha-spotify-box.png" width="520" alt="Spotify Now Playing – pastel aesthetic box"/>
+</p>
+
+<p align="center">
+  <em>☕ Soft lofi beats • Calm pink tunes • Night coding vibes 🎶</em>
 </p>
 
 <!-- ✨ Sparkle divider -->

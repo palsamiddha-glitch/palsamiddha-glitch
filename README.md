@@ -46,7 +46,7 @@ Front-end styling with HTML, CSS, and pure creativity 💫
 🌐 [github.com/palsamiddha-glitch](https://github.com/palsamiddha-glitch)  
 
 😄 **Pronouns:**  
-She / Her 💖  
+She💖  
 
 ⚡ **Fun fact:**  
 I turn coffee, colors, and calm music into lines of glowing code ☕🌈✨  

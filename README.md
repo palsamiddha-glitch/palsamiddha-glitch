@@ -104,6 +104,15 @@ Also, pink keyboards make me type faster 💅
 <p align="center">
   <img src="./sparkle-line.gif" width="900" alt="sparkle separator" />
 </p>
+### 🎧 Currently Vibing To
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&width=500&unique=true&background_color=0f0410&border_color=ff88bb" alt="Spotify recently played" />
+</p>
+
+<!-- ✨ Sparkle divider -->
+<p align="center">
+  <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
+</p>
 
 ### 💌 Connect
 <p align="center">
@@ -116,10 +125,6 @@ Also, pink keyboards make me type faster 💅
   <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
 </p>
 
-### 🎧 Currently Vibing To
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
 
 
 ---

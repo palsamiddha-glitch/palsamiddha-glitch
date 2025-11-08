@@ -8,7 +8,7 @@
   <img src="./girly-projects.gif" width="700" alt="Welcome to my little corner of calm & code — I’m Samiddha ☕" />
 </p>
 
-<h1 align="center">🌷 “Welcome to my little corner of calm & code — I’m Samiddha ☕”</h1>
+<h1 align="center">🌷Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>
 <h3 align="center">Soft code • pastel vibes • glowing creativity 🌸✨</h3>
 
 <!-- ✨ Sparkle divider -->

@@ -111,6 +111,16 @@ Also, pink keyboards make me type faster 💅
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-ff88bb?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+<!-- ✨ Sparkle divider -->
+<p align="center">
+  <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
+</p>
+
+### 🎧 Currently Vibing To
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
+</div>
+
 
 ---
 

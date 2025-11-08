@@ -106,9 +106,8 @@ Also, pink keyboards make me type faster 💅
 </p>
 
 ### 🎧 Currently Vibing To
-
 <p align="center">
-  <img src="./samiddha-spotify-box.png" width="520" alt="Spotify Now Playing – pastel aesthetic box"/>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312vwawm735w2bejhsqt3jqqbpze&cover_image=true&theme=default&show_offline=false&background_color=0f0410&interchange=false&profanity=true&bar_color=ff88bb&bar_color_cover=true)](https://open.spotify.com/user/312vwawm735w2bejhsqt3jqqbpze)
 </p>
 
 <p align="center">

@@ -105,20 +105,6 @@ Also, pink keyboards make me type faster 💅
   <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
 </p>
 
-### 🎧 Currently Vibing To
-<p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312vwawm735w2bejhsqt3jqqbpze&cover_image=true&theme=default&show_offline=false&background_color=0f0410&interchange=false&profanity=true&bar_color=ff88bb&bar_color_cover=true)](https://open.spotify.com/user/312vwawm735w2bejhsqt3jqqbpze)
-</p>
-
-<p align="center">
-  <em>☕ Soft lofi beats • Calm pink tunes • Night coding vibes 🎶</em>
-</p>
-
-<!-- ✨ Sparkle divider -->
-<p align="center">
-  <img src="./sparkle-line.gif" width="900" alt="sparkle divider" />
-</p>
-
 ### 💌 Connect
 <p align="center">
   <a href="https://github.com/palsamiddha-glitch"><img src="https://img.shields.io/badge/GitHub-ff88bb?style=for-the-badge&logo=github&logoColor=white"/></a>

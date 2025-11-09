@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./samiddha-banner.jpg" width="100%" alt="Samiddha’s pastel coding aesthetic banner" />
-</p>
 
 <h1 align="center">🌷 Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>

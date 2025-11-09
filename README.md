@@ -1,7 +1,7 @@
 <h1 align="center">🌷 Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
 
-<!-- Inline SVG banner -->
+<!-- Inline rainbow separator -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
@@ -47,13 +47,18 @@
 </p>
 
 <!-- ABOUT ME -->
-#### 🌺 Diary Pages of a Soft-Souled Coder
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🌺 Diary Pages of a Soft-Souled Coder
+</h3>
+<br/>
+
 ✨ I blend **calm visuals** with **clean frontend code** to build soft, glowing digital experiences.  
 🎨 JavaScript • React • UI/UX  
 🌱 Exploring micro-interactions & pastel design  
 ☕ Fueled by coffee, soft playlists & late-night coding.
 
-<!-- dreamy additions (added; originals intact) -->
+<!-- dreamy additions -->
 ✨ I create with a soft heart and an aesthetic mind  
 ✨ Coding feels like writing in a dream journal — gentle, expressive  
 ✨ Coffee is my morning spell, creativity my midnight magic  
@@ -72,12 +77,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- WHAT I'M UP TO -->
-#### 🌸 Cloudlike Thoughts & Sparkly Execution
-💫 Learning: React, UX animations  
-💞 Collaborating on: Aesthetic UI projects  
-🎨 Seeking help: Smooth React animations  
-💬 Ask me about: Pastel UI, CSS magic, Figma  
+<!-- WHAT I’M UP TO -->
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🌸 Cloudlike Thoughts & Sparkly Execution
+</h3>
+<br/>
+
+💫 **Learning:** React, UX animations  
+💞 **Collaborating on:** Aesthetic UI projects  
+🎨 **Seeking help:** Smooth React animations  
+💬 **Ask me about:** Pastel UI, CSS magic, Figma  
 
 📫 Email: palsamiddha@gmail.com  
 🌐 GitHub: palsamiddha-glitch  
@@ -90,7 +100,12 @@
 </p>
 
 <!-- TECH & TOOLS -->
-#### 🪽 Tools That Float Like Feathers
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🪽 Tools That Float Like Feathers
+</h3>
+<br/>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,vscode,github" />
 </p>
@@ -100,8 +115,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- PROJECTS -->
-#### 🧁 Sugar-Stitched Creations
+<!-- FEATURED PROJECTS -->
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🧁 Sugar-Stitched Creations
+</h3>
+<br/>
+
 <p align="center">
   <a href="https://github.com/palsamiddha-glitch/nexus-calc">
     <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=palsamiddha-glitch&repo=nexus-calc&theme=radical&title_color=ff88bb&icon_color=ffb3c1&text_color=ffd7e8&bg_color=0f0410"/>
@@ -117,7 +137,12 @@
 </p>
 
 <!-- MOODBOARD -->
-#### 🌼 Petal Frames & Dreamy Inspirations
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🌼 Petal Frames & Dreamy Inspirations
+</h3>
+<br/>
+
 <table align="center" cellspacing="10" cellpadding="10">
   <tr>
     <td><img src="./moodboard/image 1.jpg" width="100%" height="230" style="object-fit:cover;border-radius:16px;"></td>
@@ -136,20 +161,25 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- SPOTIFY -->
-#### 🎧 <span style="vertical-align:middle;">
-  <!-- tiny pastel spotify icon (pinky, inline SVG) -->
-  <svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;">
+<!-- SPOTIFY SECTION -->
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🎧 Melodies Floating Through My Pink Galaxy
+</h3>
+<br/>
+
+<p align="center">
+  <em style="color:#ffb3c1;">🎶 Hey Samiddha — your music vibe lives here!</em>
+</p>
+
+<!-- tiny pastel spotify icon -->
+<p align="center">
+  <svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="12" r="10" fill="#ffd7f0"/>
     <path d="M7 10c3-1 7-.6 10 1" stroke="#ff8ac6" stroke-width="2" fill="none" stroke-linecap="round"/>
     <path d="M7.5 12.7c2.5-.7 5.5-.4 7.9.7" stroke="#ff9ed6" stroke-width="1.7" fill="none" stroke-linecap="round"/>
     <path d="M8 15c1.8-.5 3.9-.3 5.6.5" stroke="#ffc5e6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
   </svg>
-  &nbsp;Melodies Floating Through My Pink Galaxy
-</span>
-
-<p align="center">
-  <em style="color:#ffb3c1;">🎶 Hey Samiddha — your music vibe lives here!</em>
 </p>
 
 <p align="center">
@@ -184,8 +214,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- TROPHIES -->
-#### 🪩 Shimmerboard of My Quiet Victories
+<!-- TROPHY SECTION -->
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🪩 Shimmerboard of My Quiet Victories
+</h3>
+<br/>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=palsamiddha-glitch&theme=juicyfresh&no-frame=true&margin-w=10&margin-h=10" width="90%" />
 </p>
@@ -195,8 +230,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- STATS -->
-#### 💫 Glow Metrics of My Inner Coder
+<!-- STATS SECTION -->
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+💫 Glow Metrics of My Inner Coder
+</h3>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palsamiddha-glitch&show_icons=true&theme=radical&title_color=ff88bb&icon_color=ffb3c1&text_color=ffd7e8&bg_color=0f0410" width="420" />
   <br/>
@@ -209,7 +249,12 @@
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
-#### 🌌 Stardust Trails on My Contribution Sky
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+🌌 Stardust Trails on My Contribution Sky
+</h3>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=palsamiddha-glitch&bg_color=0f0410&color=ffb3c1&line=ff88bb&point=ffd6e6&area=true&hide_border=true" width="90%" alt="Contribution graph"/>
 </p>
@@ -220,19 +265,29 @@
 </p>
 
 <!-- CONNECT -->
-#### 💖 Come Say Hi to My Soft Corner
+<br/>
+<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
+💖 Come Say Hi to My Soft Corner
+</h3>
+<br/>
+
 <p align="center">
-  <a href="https://github.com/palsamiddha-glitch"><img src="https://img.shields.io/badge/GitHub-ff88bb?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-ff88bb?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/palsamiddha-glitch">
+    <img src="https://img.shields.io/badge/GitHub-ff88bb?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff88bb?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
----
+<!-- Footer -->
+<hr/>
 
 <p align="center">✨ Made with pastel dreams & careful code — <strong>Samiddha</strong> 🌸</p>
 <p align="center"><em>🌟 Soft soul. Bright ideas. Code that glows.</em></p>
-
-
 
 
 

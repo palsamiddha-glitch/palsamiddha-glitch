@@ -6,24 +6,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- Animated glowing welcome line -->
+<!-- Animated pink wavy banner (file-based for GitHub compatibility) -->
 <p align="center">
-  <svg width="780" height="40" viewBox="0 0 780 40" xmlns="http://www.w3.org/2000/svg" role="img">
-    <defs>
-      <linearGradient id="glowGrad" x1="-20%" y1="0" x2="120%" y2="0">
-        <stop offset="0%" stop-color="#ffb3c1"/>
-        <stop offset="50%" stop-color="#ffd7f0"/>
-        <stop offset="100%" stop-color="#ffcce5"/>
-        <animate attributeName="x1" values="-20%;0%;-20%" dur="6s" repeatCount="indefinite"/>
-        <animate attributeName="x2" values="120%;140%;120%" dur="6s" repeatCount="indefinite"/>
-      </linearGradient>
-      <filter id="softGlow">
-        <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#ffb3c1" flood-opacity="0.9"/>
-      </filter>
-    </defs>
-    <text x="50%" y="70%" text-anchor="middle" font-size="20" font-family="Kalam, Segoe UI"
-          fill="url(#glowGrad)" filter="url(#softGlow)">✨ A soft space where creativity glows and code feels calm ✨</text>
-  </svg>
+  <img src="./assets/pink-wave-banner.svg" width="100%" alt="✨ A soft space where creativity glows and code feels calm ✨" />
 </p>
 
 <!-- Rainbow separator -->
@@ -172,14 +157,9 @@
   <em style="color:#ffb3c1;">🎶 Hey Samiddha — your music vibe lives here!</em>
 </p>
 
-<!-- tiny pastel spotify icon -->
+<!-- neon pink spotify icon (file-based) -->
 <p align="center">
-  <svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12" r="10" fill="#ffd7f0"/>
-    <path d="M7 10c3-1 7-.6 10 1" stroke="#ff8ac6" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M7.5 12.7c2.5-.7 5.5-.4 7.9.7" stroke="#ff9ed6" stroke-width="1.7" fill="none" stroke-linecap="round"/>
-    <path d="M8 15c1.8-.5 3.9-.3 5.6.5" stroke="#ffc5e6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
-  </svg>
+  <img src="./assets/pink-spotify-glow.svg" width="40" alt="Spotify neon pastel icon" />
 </p>
 
 <p align="center">

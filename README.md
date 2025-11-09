@@ -74,10 +74,11 @@
 🎨 **Seeking help:** Smooth React animations  
 💬 **Ask me about:** Pastel UI, CSS magic, Figma  
 
-📫 Email: palsamiddha@gmail.com  
-🌐 GitHub: palsamiddha-glitch  
+📫 Email: <a href="mailto:palsamiddha@gmail.com" style="color:#ff8fc2;text-decoration:underline;">palsamiddha@gmail.com</a>  
+🌐 GitHub: <a href="https://github.com/palsamiddha-glitch" style="color:#ff8fc2;text-decoration:underline;">palsamiddha-glitch</a>  
 😄 Pronouns: She  
 ⚡ Fun fact: Pink keyboards increase typing speed 💅
+
 
 <!-- Rainbow separator -->
 <p align="center">
@@ -193,7 +194,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-
 <!-- TROPHY SECTION -->
 <br/>
 <h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
@@ -201,9 +201,15 @@
 </h3>
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palsamiddha-glitch&theme=juicyfresh&no-frame=true&margin-w=10&margin-h=10" width="90%" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=palsamiddha-glitch&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=8&v=2" 
+    alt="GitHub Profile Trophy for palsamiddha-glitch"
+    loading="lazy"
+  />
+</div>
+
+
 
 <!-- Rainbow separator -->
 <p align="center">

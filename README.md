@@ -3,8 +3,13 @@
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&pause=1000&color=FF9AD9&center=true&vCenter=true&width=600&lines=%F0%9F%8C%B8%20Creative%20Technologist%0A%F0%9F%92%BB%20Dreamy%20Frontend%20Developer%0A%E2%98%95%EF%B8%8F%20Aesthetic%20UI%20Designer%0A%F0%9F%8C%B7%20Pastel%20Thinker%20%26%20Code%20Lover&repeat=true&fade=true" alt="Soft fade typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&duration=2600&pause=1200&color=FFB7E2&center=true&vCenter=true&width=700&repeat=true&random=false&fade=true&lines=🌸+Creative+Technologist;💻+Dreamy+Frontend+Developer;☕+Aesthetic+UI+Designer;🪄+Magical+Pastel+Coder;🌷+Soft+Soul+%26+Bright+Ideas" alt="Magical pastel typing animation" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/palsamiddha-glitch/palsamiddha-glitch/assets/your_gif_id_here/sparkle-line.gif" width="500" alt="sparkle aura separator" />
+</p>
+
 
 
 

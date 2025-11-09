@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./samiddha-banner.gif" width="900" alt="Samiddha's pastel aesthetic banner" />
+  <img src="./samiddha-banner.jpg" width="100%" alt="Samiddha’s pastel coding aesthetic banner" />
 </p>
 
 <h1 align="center">🌷 Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>

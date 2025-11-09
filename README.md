@@ -90,27 +90,27 @@ Frontend styling & creativity
 
 ### 📌 Pinterest-y Moodboard (Pastel Inspo)
 
-<table align="center">
+<table align="center" cellspacing="10" cellpadding="10">
   <tr>
     <td width="33%">
-      <img src="./moodboard/image 1.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image 1.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffcce5; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
     <td width="33%">
-      <img src="./moodboard/image 2.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image 2.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffd9ec; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
     <td width="33%">
-      <img src="./moodboard/image 3.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image 3.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffe6f2; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <img src="./moodboard/image 4.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image  4.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffcce5; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
     <td width="33%">
-      <img src="./moodboard/image 5.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image 5.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffd9ec; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
     <td width="33%">
-      <img src="./moodboard/image 6.jpg" width="100%" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+      <img src="./moodboard/image 6.jpg" width="100%" height="230" style="object-fit: cover; border-radius: 16px; border: 4px solid #ffe6f2; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 2px;" />
     </td>
   </tr>
 </table>
@@ -144,15 +144,15 @@ Frontend styling & creativity
 
 ### 💌 Connect  
 <p align="center">
-  <a href="https://github.com/palsamiddha-glitch"><img src="https://img.shields.io/badge/GitHub-ff88bb?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/palsamiddha-glitch"><img src="https://img.shields.io/badge/Git%20Hub-ff88bb?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/Linked%20In-ffb3c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-ff88bb?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">✨ Made with pastel dreams & careful code — <strong>Samiddha</strong> 🌸</p>
-
 <p align="center"><em>🌟 Soft soul. Bright ideas. Code that glows.</em></p>
+
 
 

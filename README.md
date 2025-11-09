@@ -2,9 +2,13 @@
 <h1 align="center">🌷 Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
 
+<h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
+
+<!-- paste the typing img here -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&duration=2600&pause=1200&color=FFB7E2&center=true&vCenter=true&width=700&repeat=true&random=false&fade=true&lines=🌸+Creative+Technologist;💻+Dreamy+Frontend+Developer;☕+Aesthetic+UI+Designer;🪄+Magical+Pastel+Coder;🌷+Soft+Soul+%26+Bright+Ideas" alt="Magical pastel typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&duration=2600&pause=1200&color=FFB7E2&center=true&vCenter=true&width=700&repeat=true&random=false&fade=true&lines=%F0%9F%8C%B8+Creative+Technologist;%F0%9F%92%BB+Dreamy+Frontend+Developer;%E2%98%95%EF%B8%8F+Aesthetic+UI+Designer;%F0%9F%AA%84+Magical+Pastel+Coder;%F0%9F%8C%B7+Soft+Soul+%26+Bright+Ideas" alt="Magical pastel typing animation" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/palsamiddha-glitch/palsamiddha-glitch/assets/your_gif_id_here/sparkle-line.gif" width="500" alt="sparkle aura separator" />

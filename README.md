@@ -79,6 +79,13 @@
 😄 Pronouns: She  
 ⚡ Fun fact: Pink keyboards increase typing speed 💅
 
+### 💖 Coding Mood Meter  
+🌸 Calm: █████████░  
+✨ Creative: ██████████  
+☕ Coffee level: ██████░░░  
+💡 Curiosity: █████████░  
+
+
 
 <!-- Rainbow separator -->
 <p align="center">

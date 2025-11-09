@@ -5,6 +5,11 @@
 <h1 align="center">🌷 Welcome to my little corner of calm & code — I’m Samiddha ☕</h1>
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
 
+<p align="center">
+  <img src="./samiddha-banner.gif" width="700" alt="Samiddha coding aesthetic gif" />
+</p>
+
+
 
 ### 🌸 About Me
 ✨ I blend **aesthetic design** with **clean front-end code** — creating interfaces that feel calm and alive.  

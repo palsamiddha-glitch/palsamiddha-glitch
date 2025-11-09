@@ -3,8 +3,9 @@
 <h3 align="center">Soft code • pastel vibes • glowing creativity ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&pause=1000&color=FF8DCB&center=true&vCenter=true&width=600&lines=🌸+Creative+Technologist;💻+Dreamy+Frontend+Developer;☕+Aesthetic+UI+Designer;🌷+Pastel+Thinker+%26+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&size=28&pause=1000&color=FF9AD9&center=true&vCenter=true&width=600&lines=🌸+Creative+Technologist;💻+Dreamy+Frontend+Developer;☕+Aesthetic+UI+Designer;🌷+Pastel+Thinker+%26+Code+Lover" alt="Typing Animation" />
 </p>
+
 
 
 

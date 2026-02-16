@@ -214,28 +214,7 @@ Tech Used: Python
 <!-- TROPHY SECTION -->
 <br/>
 <h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
-🪩 Shimmerboard of My Quiet Victories
-</h3>
-<br/>
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=palsamiddha-glitch&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=8&v=2" 
-    alt="GitHub Profile Trophy for palsamiddha-glitch"
-    loading="lazy"
-  />
-</div>
-
-
-
-<!-- Rainbow separator -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
-<!-- STATS SECTION -->
-<br/>
-<h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
 💫 Glow Metrics of My Inner Coder
 </h3>
 <br/>

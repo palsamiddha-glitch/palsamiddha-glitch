@@ -215,15 +215,12 @@ Tech Used: Python
 <br/>
 <h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
 
-💫 Glow Metrics of My Inner Coder
-</h3>
-<br/>
+<h3>💫 Glow Metrics of My Inner Coder</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palsamiddha-glitch&show_icons=true&theme=radical&title_color=ff88bb&icon_color=ffb3c1&text_color=ffd7e8&bg_color=0f0410" width="420" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=palsamiddha-glitch&theme=radical&ring=ff88bb&fire=ffb3c1" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=palsamiddha-glitch&theme=radical" width="600" />
 </p>
+
 
 <!-- Rainbow separator -->
 <p align="center">

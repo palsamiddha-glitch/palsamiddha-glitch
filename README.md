@@ -39,17 +39,24 @@
 <br/>
 
 ✨ I blend **calm visuals** with **clean frontend code** to build soft, glowing digital experiences.  
-🎨 JavaScript • React • UI/UX  
+🎨 Canva • Graphic Designing • Figma  
+💻 HTML • CSS  
+📊 Data Analysis (Beginner Level)  
+🌸 Exploring pastel visuals & aesthetic layouts  
 🌱 Exploring micro-interactions & pastel design  
-☕ Fueled by coffee, soft playlists & late-night coding.
+☕ Fueled by coffee, soft playlists & late-night coding  
 
-<!-- dreamy additions -->
-✨ I create with a soft heart and an aesthetic mind  
+✨ I create with a soft heart and an aesthetic mindset  
 ✨ Coding feels like writing in a dream journal — gentle, expressive  
+✨ I design with a creative heart and an aesthetic mindset  
+✨ Visual storytelling feels like painting with pixels  
 ✨ Coffee is my morning spell, creativity my midnight magic  
 ✨ I think in pastel gradients and build in glowing pixels  
 ✨ My mind wanders in soft colours, my code follows quietly  
-✨ I love shaping tiny details that feel like comfort  
+✨ I love shaping tiny details that feel like comfort
+
+<!-- dreamy additions -->
+
 
 > 🌈 “Soft code, warm heart, pastel dreams.”
 

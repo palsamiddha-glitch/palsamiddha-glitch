@@ -111,18 +111,28 @@
 <!-- FEATURED PROJECTS -->
 <br/>
 <h3 style="font-family:'Kalam','Segoe Script','Brush Script MT',cursive;font-size:32px;text-shadow:0 0 6px #ffb3c1;">
-🧁 Sugar-Stitched Creations
-</h3>
-<br/>
+<h3>🧁 Sugar-Stitched Creations</h3>
 
-<p align="center">
-  <a href="https://github.com/palsamiddha-glitch/nexus-calc">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=palsamiddha-glitch&repo=nexus-calc&theme=radical&title_color=ff88bb&icon_color=ffb3c1&text_color=ffd7e8&bg_color=0f0410"/>
-  </a>
-  <a href="https://github.com/palsamiddha-glitch/online-medical-shop">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=palsamiddha-glitch&repo=online-medical-shop&theme=radical&title_color=ff88bb&icon_color=ffb3c1&text_color=ffd7e8&bg_color=0f0410"/>
-  </a>
-</p>
+Here are some of the projects I’ve built with creativity and problem-solving:
+
+### 🔹 Online Medical Shop  
+🛒 E-commerce web application for ordering medicines and healthcare products.  
+Tech Used: HTML, CSS  
+
+### 🔹 Nexus Calc  
+🧮 Futuristic neon-style scientific calculator with smooth UI and responsive design.  
+Tech Used: HTML, CSS, JavaScript  
+
+### 🔹 Cardio Chatbot  
+❤️ Beginner-friendly chatbot that provides heart-health FAQs, BP classification, and lifestyle guidance.  
+Tech Used: HTML  
+
+### 🔹 CodSoft Internship Projects  
+🐍 Python-based internship tasks including Advanced Calculator and other mini applications.  
+Tech Used: Python
+
+
+
 
 <!-- Rainbow separator -->
 <p align="center">
